@@ -1,0 +1,174 @@
+{
+  "Header": {
+    "title": "AI & IT Solutions",
+    "paragraph": "Crafting Tomorrow’s Digital Landscape"
+  },
+  "About": {
+    "paragraph": "At AI & IT Solutions, we are dedicated to transforming ideas into reality through innovative technology. Our team of experts is committed to delivering excellence in IT architecture, development, DevOps, AI, and cybersecurity. We provide comprehensive support from project inception to deployment, ensuring that our solutions are perfectly aligned with your business goals.",
+    "Why": [
+      "Expertise in cutting-edge technologies",
+      "Comprehensive end-to-end solutions",
+      "Client-centric approach to problem-solving",
+      "Commitment to continuous learning"
+    ],
+    "Why2": [
+      "Tailored solutions for unique challenges",
+      "Innovative thinking and creativity",
+      "Agile and flexible project management",
+      "Dedication to quality and excellence"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cogs",
+      "name": "IT Architecture Design",
+      "text": "We design robust and scalable IT architectures that serve as the foundation for your digital transformation."
+    },
+    {
+      "icon": "fa fa-code",
+      "name": "Custom Software Development",
+      "text": "Our team delivers tailor-made software solutions that address your unique business needs."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "DevOps & CI/CD",
+      "text": "Streamlining processes to enhance agility, we ensure your operations run smoothly with continuous integration and deployment."
+    },
+    {
+      "icon": "fa ai-icon",
+      "name": "Artificial Intelligence",
+      "text": "We harness the power of AI and machine learning to unlock new dimensions of insight and innovation."
+    },
+    {
+      "icon": "fa fa-lock",
+      "name": "Cybersecurity",
+      "text": "Our cybersecurity services safeguard your digital assets in an increasingly complex threat landscape."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "name": "Technology Training",
+      "text": "Empowering your team with the skills needed to excel in the latest technologies through customized training programs."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"AI & IT Solutions delivered beyond our expectations. Their expertise in AI and IT architecture helped us innovate and stay ahead of the competition.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"The team's commitment to quality and their agile approach made our project a success. We highly recommend AI & IT Solutions for any complex IT challenges.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Their ability to tailor solutions to our specific needs was impressive. AI & IT Solutions truly understands the value of collaboration and client satisfaction.\"",
+      "name": "Jane Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Thanks to AI & IT Solutions, our team is now fully equipped to handle the latest technologies. Their training programs are second to none.\"",
+      "name": "Karen Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Gael-Jurin NKOUYEE",
+      "job": "IT Architect"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Bahaa Eddine ELBAGHAZAOUI",
+      "job": "Technical Expert"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Hamza CHAHID KSABI",
+      "job": "Cloud & DevOps Specialist"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Noureddine OUBIHI",
+      "job": "Android Specialist"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "End-to-End Solutions",
+      "text": "From concept to deployment, we manage every phase of your project with precision."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "title": "Innovative Thinking",
+      "text": "Our team is constantly exploring new technologies to offer cutting-edge solutions."
+    },
+    {
+      "icon": "fa fa-bullseye",
+      "title": "Client-Centric Approach",
+      "text": "Your goals are our priority, and we work closely with you to achieve them."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "title": "Continuous Improvement",
+      "text": "We believe in lifelong learning and apply the latest knowledge to our projects."
+    }
+  ]
+}
